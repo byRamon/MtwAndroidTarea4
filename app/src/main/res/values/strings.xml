@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurante el buen comer</string>
+    <string name="mnuAcercaDe">Acerca de...</string>
+    <string name="mnuPlatosFuertes">Platos fuertes</string>
+    <string name="Ensaladas">Ensaladas</string>
+    <string name="Bebidas">Bebidas</string>
+    <string name="restauranteDescripcion">es un restaurante inspirado en la mezcla y toques de sabores, texturas y colores ubicados en el hall de entrada al Hotel y Centro de Eventos Malibu en la ciudad de Sincelejo. Animado con una brisa fresca en el centro de una arquitectura moderna, con una gran guaca de sabores. Nuestro menú es una experiencia ecléctica de la mejor cocina internacional con un toque de estilo mediterráneo</string>
+</resources>
